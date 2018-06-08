@@ -1,5 +1,5 @@
 # Lupstrument
-This is a project within my the "Music Informatics Seminar" at the Institute of Electronic Music and Acoustics, Graz. 
+This is a project within the "Music Informatics Seminar" at the Institute of Electronic Music and Acoustics, Graz. 
 
 The idea behind this project was to build a multichannel looper instrument
 that can be played solely by acoustic and haptic feedback. The interface
