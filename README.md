@@ -12,8 +12,6 @@ modifications to the recorded and looped sound material. The possible
 modifications include selecting the start and end of the loop within the
 recorded audio material, as well as playing the loop reversed and at altered
 speed.
-Key to the concept is a proper monitoring system that lets the performer
-pre-listen to loops and their live-modifications.
 The concept has been realised with the open-source hardware platform Bela
 [1], with software being developed in the computer music language Pure
 Data. 
