@@ -17,7 +17,7 @@ The concept has been realised with the open-source hardware platform Bela
 Data. 
 A video were I recorded a first piece can be found on vimeo[3].
 
-The _main.pd file is the top layer which shows all inputs and outpus as they are layed out in my hardware version of this patch. The looper core is contained in loopclip.pd.
+The _main.pd file is the top layer which shows all controls and buttons as they are layed out in my hardware box. The looper core is contained in loopclip.pd. Each channel is basically a loopclip.pd and can be edited when selected by one of the buttons.
 
 [1] https://github.com/BelaPlatform/bela-hardware
 
