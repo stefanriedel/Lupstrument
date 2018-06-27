@@ -20,5 +20,7 @@ A video were I recorded a first piece can be found on vimeo[3].
 The _main.pd file is the top layer which shows all inputs and outpus as they are layed out in my hardware version of this patch. The looper core is contained in loopclip.pd.
 
 [1] https://github.com/BelaPlatform/bela-hardware
-[2] url: https://en.wikipedia.org/wiki/Musique_concr%C3%A8te
+
+[2] https://en.wikipedia.org/wiki/Musique_concr%C3%A8te
+
 [3] https://vimeo.com/277252836
